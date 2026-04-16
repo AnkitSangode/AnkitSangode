@@ -63,15 +63,6 @@ A production-ready AI system with:
 
 👉 https://github.com/AnkitSangode/agentic-rag-ai-system
 
----
-
-## 📊 GitHub Stats
-
-![Ankit's GitHub stats](https://github-readme-stats.vercel.app/api?username=AnkitSangode\&show_icons=true\&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnkitSangode\&layout=compact\&theme=tokyonight)
-
----
 
 ## 📈 Currently Learning
 
